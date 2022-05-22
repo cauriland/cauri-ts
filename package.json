@@ -1,6 +1,6 @@
 {
   "name": "cauri-ts",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "An Cauri API wrapper, written in TypeScript to interact with Cauri blockchain.",
   "main": "index.js",
   "types": "index.d.ts",
